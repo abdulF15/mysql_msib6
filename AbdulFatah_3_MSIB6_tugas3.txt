@@ -1,5 +1,5 @@
 NAMA : ABDUL FATAH
-
+github : https://github.com/abdulF15/mysql_msib6
 
 SOAL 4.1
 1. mysql> SELECT pesanan.id, pesanan.tanggal, pesanan. total, pelanggan.kode, pelanggan.nama,
